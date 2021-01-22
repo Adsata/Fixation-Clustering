@@ -14,5 +14,8 @@ pyparsing          # via matplotlib
 python-dateutil    # via matplotlib, pandas
 pytz          # via pandas
 scipy            # via seaborn
-seabor
+seaborn
 six              # via cycler, python-dateutil
+urllib
+json
+math
