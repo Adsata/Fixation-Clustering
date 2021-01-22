@@ -3,10 +3,10 @@
 # TUB_WU20_FinalProject
 Final Project for the course Machine Learning Using Python: Theory and Application taken at TU Berlin Winter Semester
 
-# Summary
+## Summary
 
-# Folder Structure
-.
+## Folder Structure
+```
 +-- ipynb_checpoints --> Checkpoints of the Jupyter notebook
 +-- datasers
 |   +-- adsata-golden.json
@@ -17,7 +17,7 @@ Final Project for the course Machine Learning Using Python: Theory and Applicati
 |   +-- PDFs for all project related research
 +-- index.ipynb --> main Jupyter notebook
 +-- requirements.txt --> dependencies for Binder containers
-
+```
 
 ## Project Members
 * Taimur Khan
