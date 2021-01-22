@@ -1,4 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thisistaimur/TUB_WS_FinalProject/HEAD)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thisistaimur/TUB_WU_FinalProject/blob/main/index.ipynb)
+
 
 # TUB_WU20_FinalProject
 Final Project for the course Machine Learning Using Python: Theory and Application taken at TU Berlin Winter University 2020
