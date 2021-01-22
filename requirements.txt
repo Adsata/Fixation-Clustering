@@ -15,7 +15,6 @@ python-dateutil    # via matplotlib, pandas
 pytz          # via pandas
 scipy            # via seaborn
 seaborn
-six              # via cycler, python-dateutil
-urllib
+urllib3
 json
 math
