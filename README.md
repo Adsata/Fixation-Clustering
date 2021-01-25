@@ -10,7 +10,7 @@ Final Project for the course Machine Learning Using Python: Theory and Applicati
 ## Folder Structure
 ```
 +-- ipynb_checpoints --> Checkpoints of the Jupyter notebook
-+-- datasers
++-- datasets
 |   +-- adsata-golden.json
 |   +-- dataset1.py
 |   +-- dataset2.py
