@@ -19,10 +19,7 @@ Here, an unlabeled dataset of an eyetracking timeseries was clustered using the 
 
 Although ST-DBSCAN shows higher accuracy value, it must be noted that the hand-labeled dataset used to measure model accuracy contains equally spread out gaze points, as compared to "wild" eyetracking datasets where the data is not as equally spaced. The resulting variance in cluster densities might cause an accuracy loss for ST-DBSCAN in "wild" data. A further analysis of hand labaled datasets is suggested to create a better understanding of the performance difference between ST-OPTICS and ST-DBSCAN.
 
-___Fig 1:___ Data comparison between Webgazer and Tobii-Pro X3-120 showing the different in data quality and noise.
-
-
-<img src="resources\problem.png" alt="Drawing" style="width: 700px;"/>
+![SegmentLocal](resources/3d-DBSCAN.gif "segment")
 
 ## Folder Structure
 ```
